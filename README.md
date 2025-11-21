@@ -1,2 +1,0 @@
-# the-news
-android application
